@@ -1,7 +1,7 @@
 # ArkifModVersion
 Mod Version Json
 
-A JSON file that will show when updates are avaliable for mods.
+A JSON file that will show a message in the mod when updates are avaliable.
 
 Inspired very much by iChun:
 
